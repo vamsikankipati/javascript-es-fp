@@ -4,5 +4,5 @@ let a = () => {
 
 let message = name => `Hello ${name}`;
 
-//This is run using atom runner package for easier testing.
+//This is run using atom runner package for easier testing. (Alt + R)
 console.log(message('Vamsi'));
