@@ -17,3 +17,14 @@ console.log(a); // 3
   let a = 10;
   console.log(a);
 })(); // 10
+
+
+// Function Declaration and Function Expression are different
+
+// Function Expressions can be invoked immediately by using IIFE
+
+// type IIFE in atom editor and click enter to generate IIFE syntax
+(function() {
+  'use strict';
+  //This way, strict mode can be enabled inside a functions
+}());
