@@ -11,3 +11,9 @@ function scope() {
 scope(); // 4
 
 console.log(a); // 3
+
+// Immediately Invoked Function Expressions
+(function() {
+  let a = 10;
+  console.log(a);
+})(); // 10
