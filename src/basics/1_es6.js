@@ -12,10 +12,16 @@ console.log(message('Vamsi'));
 // let is blockscoped
 // var is function scoped
 
-  /*At first all the declarations are processed by the
-    Javascript engine before executing the code
-  */
+/* At first all the declarations are processed by the
+   Javascript engine before executing the code
+*/
 
-/* Declaration is pocessed during compilation phase and initialization is processed
-   during execution */
-   var b = 5; // declaration and initialization of variable b
+/* Declaration is pocessed during compilation phase and initialization is
+   processed during execution
+*/
+  var b = 5; // declaration and initialization of variable b
+
+
+/* Hoisting - variable and function declarations are moved from its
+   actual position to the top of the code
+*/
