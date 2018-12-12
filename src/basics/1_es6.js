@@ -23,5 +23,5 @@ console.log(message('Vamsi'));
 
 
 /* Hoisting - variable and function declarations are moved from its
-   actual position to the top of the code
+   actual position to the top of the code. Only declarations are hosted always
 */
