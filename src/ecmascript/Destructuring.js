@@ -9,6 +9,6 @@ function getUserId({userId}) {
   return userId;
 }
 
-//The curly braces unpacks the object attributes
+//The curly braces unpacks the object attributes.
 getUserId(user); // 31
 
