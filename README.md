@@ -1,2 +1,4 @@
 # javascript-es-fp
-This repository consists of features implemented using ECMAScript 6+ standard.
+This repository consists of functional programming examples implemented using ECMAScript 6 and above standards.
+
+javascript-ecmascript-functionalProgramming
