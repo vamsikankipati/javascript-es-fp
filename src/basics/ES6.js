@@ -27,3 +27,4 @@ console.log(message('Vamsi'));
    Function declarations are hosted but not Function Expressions.
    Functions are hoisted first, then variables.
 */
+ 
