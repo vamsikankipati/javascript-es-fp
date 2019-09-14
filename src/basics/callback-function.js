@@ -23,7 +23,7 @@ function improveCodingStandards(programmingLanguage, callback) {
   console.log(`Started my ${programmingLanguage} coding practice.`);
   callback();
 }
-function taskAccomplished(){
+function taskAccomplished() {
   console.log('Done with my coding practice');
 }
 
